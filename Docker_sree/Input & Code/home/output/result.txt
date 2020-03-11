@@ -1,0 +1,14 @@
+The File names are
+      551 FIle1.txt
+      617 File2.txt
+     1168 total
+                    
+The Grand total of no. of words: 1168
+                     
+The File with highest word count is:       617 File2.txt
+                    
+The IP Address of the machine: 172.17.0.2
+                    
+The User of the machine is: root
+                    
+ Name is : Sree Naveen Venkatachalam
